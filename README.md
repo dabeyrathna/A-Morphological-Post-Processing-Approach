@@ -29,6 +29,11 @@
     <td><img src="./results/U-Net segmentation masks/out101.png" alt="1" width = 300px height = 300px ></td>
     <td><img src="./results/ours/out10.png" alt="1" width = 300px height = 300px  ></td>      
   </tr>	
+	
+<tr>
+    <td><img src="./results/U-Net segmentation masks/out33.png" alt="1" width = 300px height = 300px ></td>
+    <td><img src="./results/ours/out3.png" alt="1" width = 300px height = 300px  ></td>      
+  </tr>	
 </table>
 
 
