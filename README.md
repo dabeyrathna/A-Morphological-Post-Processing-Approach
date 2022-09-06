@@ -16,18 +16,9 @@
     <td><img src="./results/ours/out2.png" alt="1" width = 300px height = 300px  ></td>      
   </tr>
 
- 
-          <tr>
-    <td><img src="./results/U-Net segmentation masks/out44.png" alt="1" width = 300px height = 300px ></td>
-    <td><img src="./results/ours/out4.png" alt="1" width = 300px height = 300px  ></td>      
-  </tr>
+
 	
-	    <tr>
-    <td><img src="./results/U-Net segmentation masks/out77.png" alt="1" width = 300px height = 300px ></td>
-    <td><img src="./results/ours/out7.png" alt="1" width = 300px height = 300px  ></td>      
-  </tr>
-	
-	      <tr>
+<tr>
     <td><img src="./results/U-Net segmentation masks/out111.png" alt="1" width = 300px height = 300px ></td>
     <td><img src="./results/ours/out11.png" alt="1" width = 300px height = 300px  ></td>      
   </tr>
