@@ -18,8 +18,8 @@
     <td><img src="./results/ours/out11.png" alt="1" width = 300px height = 300px  ></td>      
   </tr>	
 	<tr>
-    <td><img src="./results/U-Net segmentation masks/out111.png" alt="1" width = 300px height = 300px ></td>
-    <td><img src="./results/ours/out11.png" alt="1" width = 300px height = 300px  ></td>      
+    <td><img src="./results/U-Net segmentation masks/out88.png" alt="1" width = 300px height = 300px ></td>
+    <td><img src="./results/ours/out8.png" alt="1" width = 300px height = 300px  ></td>      
   </tr>	
 </table>
 
