@@ -44,6 +44,14 @@
     <td><img src="./results/U-Net segmentation masks/out55.png" alt="1" width = 300px height = 300px ></td>
     <td><img src="./results/ours/out5.png" alt="1" width = 300px height = 300px  ></td>      
   </tr>	
+<tr>
+    <td><img src="./results/U-Net segmentation masks/out66.png" alt="1" width = 300px height = 300px ></td>
+    <td><img src="./results/ours/out6.png" alt="1" width = 300px height = 300px  ></td>      
+  </tr>	
+<tr>
+    <td><img src="./results/U-Net segmentation masks/out99.png" alt="1" width = 300px height = 300px ></td>
+    <td><img src="./results/ours/out9.png" alt="1" width = 300px height = 300px  ></td>      
+  </tr>	
 </table>
 
 
