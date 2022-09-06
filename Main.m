@@ -33,8 +33,8 @@ end
 
 [final_BW, cell_area, c1] = Instance_segments(component_images,I, final_BW,cc,e);
 figure(1), imshow(cell_area); 
-% output_Im = imfuse(Im,cell_area,'blend');
-% figure(2),imshow(output_Im);
+output_Im = imfuse(Im,cell_area,'blend');
+figure(2),imshow(output_Im);
 
 %%END
 
