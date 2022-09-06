@@ -15,8 +15,6 @@ function [newf1,branchObj] =  Local_Agreement(branchObj,k, newf, newf1, cp, adju
         end        
         branchObj(k).lines = sortrows(branchObj(k).lines,4);
         for n = 1:length(branchObj(k).lines)  
-%             newf = insertShape(double(newf),'Line',[branchObj(k).lines(n,1) branchObj(k).lines(n, 2) branchObj(k).b branchObj(k).a], ...
-%                 'LineWidth',2,'Color',cp{mod(n,2)+1});
             branchObj(k).lines(n,3) = mod(n,2)+1;  
             
             nnn = 1;
