@@ -4,7 +4,7 @@
 
 1. Run "Main.m" to see an example 
 2. The code reads semantic segmentation mask (ex: "y1.png") and original image (ex: "yo.png") as the input from the data directory
-
+3. Results directory contains a sample of U-Net segmentation masks, final instance segmentation results and Mask R-CNN outcomes with same test images.
 
 # Sample of Results
 
