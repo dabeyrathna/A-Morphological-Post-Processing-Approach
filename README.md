@@ -65,12 +65,6 @@
 		<td><img src="./results/ours/out10.png" alt="1" width = 300px height = 300px  ></td>      
   </tr>
   
-
-      <tr>
-		<td><img src="./results/mask_rcnn/err2.png" alt="1" width = 300px height = 300px ></td>
-		<td><img src="./results/ours/err2.png" alt="1" width = 300px height = 300px  ></td>      
-  </tr>
-	
   <tr>
 	<td><img src="./results/mask_rcnn/out6.png" alt="1" width = 300px height = 300px ></td>
 	<td><img src="./results/ours/out6.png" alt="1" width = 300px height = 300px  ></td>      
@@ -80,5 +74,11 @@
 	<td><img src="./results/mask_rcnn/out7.png" alt="1" width = 300px height = 300px ></td>
 	<td><img src="./results/ours/out7.png" alt="1" width = 300px height = 300px  ></td>      
   </tr>
+	
+<tr>
+	<td><img src="./results/mask_rcnn/err2.png" alt="1" width = 300px height = 300px ></td>
+	<td><img src="./results/ours/err2.png" alt="1" width = 300px height = 300px  ></td>      
+  </tr>
+	
   
  </table>
