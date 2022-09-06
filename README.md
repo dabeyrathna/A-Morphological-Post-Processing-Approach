@@ -1,5 +1,12 @@
 # A-Morphological-Post-Processing-Approach
 
+# Notes
+
+1. Run "Main.m" to see an example 
+2. The code reads semantic segmentation mask (ex: "y1.png") and original image (ex: "yo.png") as the input from the data directory
+
+
+## Sample of Results
 
 <table align='center' style="padding:10px">
   <tr><th>Segmentation mask</th>  <th>Final segmentations</th></tr>
