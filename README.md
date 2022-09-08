@@ -92,3 +92,4 @@
  
  ## Execution examples
  
+<img src="./results/gif/video1.gif" alt="1" width = 800px height = 400px >
