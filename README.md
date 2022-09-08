@@ -92,5 +92,6 @@
  
  ## Execution examples
  
- <iframe title="all" width="640" height="360" allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;" frameBorder="0" src="https://app.vidgrid.com/embed/IYeEmO4Ade2q"></iframe>
+ [![Watch the video](https://app.vidgrid.com/embed/IYeEmO4Ade2q)
+
   
