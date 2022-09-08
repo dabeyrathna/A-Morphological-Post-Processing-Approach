@@ -92,12 +92,12 @@
  
  ## Execution examples
  
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/u6jHD-rOxHA/4.jpg)](https://youtu.be/u6jHD-rOxHA "Video 1")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/u6jHD-rOxHA/0.jpg)](https://youtu.be/u6jHD-rOxHA "Video 1")
  
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/OQvhk25nQ-w/4.jpg)]( https://youtu.be/OQvhk25nQ-w "Video 2")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/OQvhk25nQ-w/0.jpg)]( https://youtu.be/OQvhk25nQ-w "Video 2")
   
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/u6jHD-rOxHA/4.jpg)](https://youtu.be/u6jHD-rOxHA "Video 3")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/u6jHD-rOxHA/0.jpg)](https://youtu.be/u6jHD-rOxHA "Video 3")
    
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/u6jHD-rOxHA/4.jpg)](https://youtu.be/u6jHD-rOxHA "Video 4")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/u6jHD-rOxHA/0.jpg)](https://youtu.be/u6jHD-rOxHA "Video 4")
  
 
