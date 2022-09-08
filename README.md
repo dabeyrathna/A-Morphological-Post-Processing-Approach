@@ -92,5 +92,5 @@
  
  ## Execution examples
  
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+<div style="position:relative;overflow:hidden;padding-top:56.25%;"><iframe title="all"   allowTransparency="true" mozallowfullscreen webkitallowfullscreen allowfullscreen style="background-color:transparent;position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://app.vidgrid.com/embed/IYeEmO4Ade2q"></iframe></div>
   
