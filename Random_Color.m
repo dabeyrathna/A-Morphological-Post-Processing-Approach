@@ -7,7 +7,7 @@ function [newf1,branchObj] =  Random_Color(branchObj,k, newf, newf1, cp)
     BW2 = bwselect(L,branchObj(k).b,branchObj(k).a,8);
 
     if length(branchObj(k).cx1) > 2
-        text(branchObj(k).b+25,branchObj(k).a+5,'X type','color','g');
+        %text(branchObj(k).b+25,branchObj(k).a+5,'X type','color','g');
         branchObj(k).type = 1;
         c = 1;
         for n = 1:length(branchObj(k).lines)  
@@ -17,7 +17,7 @@ function [newf1,branchObj] =  Random_Color(branchObj,k, newf, newf1, cp)
             c=c+1;
         end
     elseif length(branchObj(k).cx1) > 1
-        text(branchObj(k).b+25,branchObj(k).a-10,'Y type','color','g');
+        %text(branchObj(k).b+25,branchObj(k).a-10,'Y type','color','g');
         branchObj(k).type = 2;
         c = 1;
         for n = 1:length(branchObj(k).lines)  
@@ -27,7 +27,7 @@ function [newf1,branchObj] =  Random_Color(branchObj,k, newf, newf1, cp)
             c=c+1;
         end
     else
-        text(branchObj(k).b+20,branchObj(k).a,'I type','color','g');
+        %text(branchObj(k).b+20,branchObj(k).a,'I type','color','g');
         branchObj(k).type = 3;
         c = 1;
         for n = 1:length(branchObj(k).lines)  

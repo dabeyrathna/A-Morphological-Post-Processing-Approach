@@ -6,8 +6,27 @@ close all;
 % Read image
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-I = imread('data/y1.png');
-Im = imread('data/yo.png');
+[file1,path1] = uigetfile({'*.png';'*.jpg'},...
+               'Select the segmentation mask','data/');
+
+if isequal(file1,0)
+   disp('User selected Cancel')
+   return
+end
+
+[file2,path2] = uigetfile({'*.png';'*.jpg'},...
+               'Select the original image','data/');
+
+I = imread(fullfile(path1, file1));
+
+flag = 0;
+if isequal(file2,0)
+   flag = 1;
+else
+    Im = imread(fullfile(path2, file2));
+end
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 [rows, columns, numberOfColorChannels] = size(I);
 if numberOfColorChannels > 1
@@ -32,9 +51,11 @@ for o1 = 1:cc.NumObjects
 end
 
 [final_BW, cell_area, c1] = Instance_segments(component_images,I, final_BW,cc,e);
-figure(1), imshow(cell_area); 
-output_Im = imfuse(Im,cell_area,'blend');
-figure(2),imshow(output_Im);
+figure, imshow(cell_area); 
 
+if flag == 0
+    output_Im = imfuse(Im,cell_area,'blend');
+    figure,imshow(output_Im);
+end
 %%END
 
