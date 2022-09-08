@@ -92,4 +92,4 @@
  
  ## Execution examples
  
-<img src="./results/gif/video1.gif" alt="1" width = 1200px height = 660px >
+<img src="./results/gif/video1.gif" alt="1" width = 800px height = 400px >
