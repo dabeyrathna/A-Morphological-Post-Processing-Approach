@@ -99,7 +99,7 @@
  
  ### Video with text comments within the videos
  
- [![Video 2](http://img.youtube.com/vi/OQvhk25nQ-w/0.jpg)]( https://www.youtube.com/watch?v=1Ka8d1Q0cgY "Video with comments")
+ [![Video 2](http://img.youtube.com/vi/1Ka8d1Q0cgY/0.jpg)]( https://www.youtube.com/watch?v=1Ka8d1Q0cgY "Video with comments")
  
  
  ### Video 1
