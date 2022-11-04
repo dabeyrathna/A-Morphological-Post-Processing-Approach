@@ -94,7 +94,7 @@
  
   ### Video with text comments within the videos for step-by-step in the run time
  
- [![Video 2](http://img.youtube.com/vi/OQvhk25nQ-w/0.jpg)]( https://youtu.be/kbG1lrxj_WE "Video with comments")
+ [![Video 2](http://img.youtube.com/vi/kbG1lrxj_WE/0.jpg)]( https://youtu.be/kbG1lrxj_WE "Video with comments")
  
  
  ### Video with text comments within the videos
