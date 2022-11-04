@@ -15,4 +15,6 @@ We have used VGG Image Annotator [2] to annotate the bacteria cells to seperate 
 ## References
 
 [1] Carlson, C., Singh, N. K., Bibra, M., Sani, R. K., & Venkateswaran, K. (2018). Pervasiveness of UVC254-resistant Geobacillus strains in extreme environments. Applied microbiology and biotechnology, 102(4), 1869-1887.
+
+
 [2] Abhishek Dutta and Andrew Zisserman. 2019. The VIA Annotation Software for Images, Audio and Video. In Proceedings of the 27th ACM International Conference on Multimedia (MM ’19), October 21–25, 2019, Nice, France. ACM, New York, NY, USA.
